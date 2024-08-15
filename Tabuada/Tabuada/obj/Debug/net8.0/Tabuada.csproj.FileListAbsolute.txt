@@ -1,0 +1,14 @@
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.exe
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.deps.json
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.runtimeconfig.json
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.dll
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.pdb
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.dll
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\obj\Debug\net8.0\refint\Tabuada.dll
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.pdb
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Tabuada\Tabuada\obj\Debug\net8.0\ref\Tabuada.dll

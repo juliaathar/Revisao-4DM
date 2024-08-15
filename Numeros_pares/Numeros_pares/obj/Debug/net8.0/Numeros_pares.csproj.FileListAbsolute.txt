@@ -1,0 +1,14 @@
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\bin\Debug\net8.0\Numeros_pares.exe
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\bin\Debug\net8.0\Numeros_pares.deps.json
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\bin\Debug\net8.0\Numeros_pares.runtimeconfig.json
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\bin\Debug\net8.0\Numeros_pares.dll
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\bin\Debug\net8.0\Numeros_pares.pdb
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\obj\Debug\net8.0\Numeros_pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\obj\Debug\net8.0\Numeros_pares.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\obj\Debug\net8.0\Numeros_pares.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\obj\Debug\net8.0\Numeros_pares.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\obj\Debug\net8.0\Numeros_pares.dll
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\obj\Debug\net8.0\refint\Numeros_pares.dll
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\obj\Debug\net8.0\Numeros_pares.pdb
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\obj\Debug\net8.0\Numeros_pares.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\Numeros_pares\Numeros_pares\obj\Debug\net8.0\ref\Numeros_pares.dll

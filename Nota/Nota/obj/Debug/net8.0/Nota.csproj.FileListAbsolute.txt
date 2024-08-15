@@ -1,0 +1,14 @@
+C:\Users\50579698890\Desktop\Nota\Nota\bin\Debug\net8.0\Nota.exe
+C:\Users\50579698890\Desktop\Nota\Nota\bin\Debug\net8.0\Nota.deps.json
+C:\Users\50579698890\Desktop\Nota\Nota\bin\Debug\net8.0\Nota.runtimeconfig.json
+C:\Users\50579698890\Desktop\Nota\Nota\bin\Debug\net8.0\Nota.dll
+C:\Users\50579698890\Desktop\Nota\Nota\bin\Debug\net8.0\Nota.pdb
+C:\Users\50579698890\Desktop\Nota\Nota\obj\Debug\net8.0\Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\Nota\Nota\obj\Debug\net8.0\Nota.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\Nota\Nota\obj\Debug\net8.0\Nota.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\Nota\Nota\obj\Debug\net8.0\Nota.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\Nota\Nota\obj\Debug\net8.0\Nota.dll
+C:\Users\50579698890\Desktop\Nota\Nota\obj\Debug\net8.0\refint\Nota.dll
+C:\Users\50579698890\Desktop\Nota\Nota\obj\Debug\net8.0\Nota.pdb
+C:\Users\50579698890\Desktop\Nota\Nota\obj\Debug\net8.0\Nota.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\Nota\Nota\obj\Debug\net8.0\ref\Nota.dll

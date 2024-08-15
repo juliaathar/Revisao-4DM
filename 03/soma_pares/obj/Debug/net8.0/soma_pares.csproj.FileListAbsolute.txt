@@ -1,0 +1,14 @@
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\obj\Debug\net8.0\soma_pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\obj\Debug\net8.0\soma_pares.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\obj\Debug\net8.0\soma_pares.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\obj\Debug\net8.0\soma_pares.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\bin\Debug\net8.0\soma_pares.exe
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\bin\Debug\net8.0\soma_pares.deps.json
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\bin\Debug\net8.0\soma_pares.runtimeconfig.json
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\bin\Debug\net8.0\soma_pares.dll
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\bin\Debug\net8.0\soma_pares.pdb
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\obj\Debug\net8.0\soma_pares.dll
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\obj\Debug\net8.0\refint\soma_pares.dll
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\obj\Debug\net8.0\soma_pares.pdb
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\obj\Debug\net8.0\soma_pares.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\03\soma_pares\obj\Debug\net8.0\ref\soma_pares.dll

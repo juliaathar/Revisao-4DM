@@ -1,0 +1,14 @@
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\bin\Debug\net8.0\par_ou_impar.exe
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\bin\Debug\net8.0\par_ou_impar.deps.json
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\bin\Debug\net8.0\par_ou_impar.runtimeconfig.json
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\bin\Debug\net8.0\par_ou_impar.dll
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\bin\Debug\net8.0\par_ou_impar.pdb
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\obj\Debug\net8.0\par_ou_impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\obj\Debug\net8.0\par_ou_impar.AssemblyInfoInputs.cache
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\obj\Debug\net8.0\par_ou_impar.AssemblyInfo.cs
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\obj\Debug\net8.0\par_ou_impar.csproj.CoreCompileInputs.cache
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\obj\Debug\net8.0\par_ou_impar.dll
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\obj\Debug\net8.0\refint\par_ou_impar.dll
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\obj\Debug\net8.0\par_ou_impar.pdb
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\obj\Debug\net8.0\par_ou_impar.genruntimeconfig.cache
+C:\Users\50579698890\Desktop\Revisão de lógica de programação\01\par_ou_impar\obj\Debug\net8.0\ref\par_ou_impar.dll
